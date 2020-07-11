@@ -1,0 +1,1 @@
+This is Everardo's first git project!
